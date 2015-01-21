@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running! YEA
+title: You're up and running demo time!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+DEMO Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
